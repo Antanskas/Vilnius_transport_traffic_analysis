@@ -1,4 +1,5 @@
 # Vilnius_transport_traffic_analysis
+For better experience i suggest to pull repo just to be able to play with interactive maps :)
 * ## Idea
   * Perform analysis using Vilnius traffic dataset
 * ## Environment
