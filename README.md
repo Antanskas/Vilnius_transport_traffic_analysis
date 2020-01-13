@@ -20,10 +20,10 @@ As can be expected during peak hours (17PM - 18PM) transport volume is biggest. 
 
 ![Image 3](https://github.com/Antanskas/Vilnius_transport_traffic_analysis/blob/master/results_plot/img4.png) <br>
 
+![Image 4](https://github.com/Antanskas/Vilnius_transport_traffic_analysis/blob/master/results_plot/img5.png) <br>
+
    *  **3rd conclusion**
 As we can see during weekends (5 and 6) transport volume is much lower compared to other days(working days). Most occupied days seems are monday and friday. <br>
-
-![Image 4](https://github.com/Antanskas/Vilnius_transport_traffic_analysis/blob/master/results_plot/img5.png) <br>
 
 ![Image 4](https://github.com/Antanskas/Vilnius_transport_traffic_analysis/blob/master/results_plot/img6.PNG) <br>
 
